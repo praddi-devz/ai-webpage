@@ -10,7 +10,7 @@ The website also has a separate **History of AI** page which shows how AI has de
 
 ## Files Included
 
-- index.html (Main page)
+- page.html (Main page)
 - history.html (History of AI page)
 - Images used in the website
 
